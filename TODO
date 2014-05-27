@@ -58,3 +58,8 @@ Fixed some Icons Names and gnome links from Mist icon theme
 48x48/mimetypes/gnome-mime-x-font-afm.png
 48x48/mimetypes/stock_certificate.png
 48x48/mimetypes/template_source.png
+
+48x48/actions/gtk-find-and-replace.png
+48x48/actions/stock_mail-send-receive.png
+48x48/actions/stock_print-setup.png
+48x48/actions/stock_search-and-replace.png
