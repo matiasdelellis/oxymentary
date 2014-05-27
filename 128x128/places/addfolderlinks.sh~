@@ -1,0 +1,23 @@
+#!/bin/bash
+ln -s bookmarks.png favorites.png
+ln -s user-home.png folder-home.png
+ln -s network-workgroup.png network.png
+ln -s network-workgroup.png gtk-network.png
+ln -s network-workgroup.png gnome-fs-network.png
+ln -s folder-remote.png folder-remote-ftp.png
+ln -s folder-remote.png folder-remote-smb.png
+ln -s folder-remote.png folder-remote-nfs.png
+ln -s folder-remote.png folder-remote-ssh.png
+ln -s folder-remote.png folder-publicshare.png
+ln -s folder-remote.png user-share.png
+ln -s folder-downloads.png folder-download.png
+ln -s folder-image.png folder-pictures.png
+ln -s folder-image.png folder-images.png
+ln -s folder-image.png user-images.png
+ln -s folder-image.png user-pictures.png
+ln -s folder-sound.png folder-music.png
+ln -s folder-video.png folder-videos.png
+ln -s bookmarks.png user-bookmarks.png
+ln -s mail-folder-outbox.png mail-outbox.png
+ln -s folder-grey.png folder-open.png
+exit 0

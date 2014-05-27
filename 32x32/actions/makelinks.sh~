@@ -1,0 +1,2 @@
+#!/bin/bash
+ln -s document-open.png fileopen.png

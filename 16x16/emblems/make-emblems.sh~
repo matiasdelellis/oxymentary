@@ -1,0 +1,14 @@
+#!/bin/bash
+ln -s ../actions/rating.png emblem-favorite.png
+ln -s ../actions/list-add.png emblem-new.png
+ln -s ../status/user-away.png emblem-urgent.png
+ln -s ../categories/preferences-system.png emblem-system.png
+ln -s ../status/task-attention.png emblem-danger.png
+ln -s ../actions/speaker.png emblem-sound.png
+ln -s ../actions/tool-animator.png emblem-video.png
+ln -s ../places/user-identity.png emblem-personal.png
+ln -s ../places/user-desktop.png emblem-desktop.png
+ln -s ../status/meeting-participant-optional.png emblem-people.png
+ln -s ../mimetypes/x-office-document.png emblem-documents.png
+ln -s ../apps/utilities-file-archiver.png emblem-package.png
+

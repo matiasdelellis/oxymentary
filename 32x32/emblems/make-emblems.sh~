@@ -1,0 +1,26 @@
+#!/bin/bash
+rm emblem-favorite.png
+rm emblem-new.png
+rm emblem-urgent.png
+rm emblem-system.png
+rm emblem-danger.png
+rm emblem-sound.png
+rm emblem-video.png
+rm emblem-personal.png
+rm emblem-desktop.png
+rm emblem-people.png
+rm emblem-documents.png
+rm emblem-package.png
+ln -s ../actions/rating.png emblem-favorite.png
+ln -s ../actions/list-add.png emblem-new.png
+ln -s ../status/user-away.png emblem-urgent.png
+ln -s ../categories/preferences-system.png emblem-system.png
+ln -s ../status/task-attention.png emblem-danger.png
+ln -s ../actions/speaker.png emblem-sound.png
+ln -s ../actions/tool-animator.png emblem-video.png
+ln -s ../places/user-identity.png emblem-personal.png
+ln -s ../places/user-desktop.png emblem-desktop.png
+ln -s ../status/meeting-participant-optional.png emblem-people.png
+ln -s ../mimetypes/x-office-document.png emblem-documents.png
+ln -s ../apps/utilities-file-archiver.png emblem-package.png
+
